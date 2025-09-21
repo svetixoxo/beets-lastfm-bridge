@@ -235,7 +235,7 @@ I haven't actually read through most of the [documentation files in this reposit
 
 Despite my ~limited~ non-existent programming skills, this solution solved a real problem that others might face. Sometimes "good enough" code that works is better than no solution at all.
 
-Realistically, I doubt anyone besides me will actually use this. I think even I won't use it any longer once i get beets working properly again. But: It's a pretty niche tool for a pretty specific problem, and given all the disclaimers above, most people would probably be better off finding ~a more professionally~ an at least maintained solution. But hey, it's here if you want it.
+Realistically, I doubt anyone besides me will actually use this. I think even I won't use it any longer once i get beets working properly again. But: It's a pretty niche tool for a [pretty specific problem](https://github.com/svetixoxo/archbook/issues/48?issue=svetixoxo%7Carchbook%7C46), and given all the disclaimers above, most people would probably be better off finding ~a more professionally~ an at least maintained solution. But hey, it's here if you want it.
 
 If it somehow helps even one person manage their music library better, it was worth sharing.
 
