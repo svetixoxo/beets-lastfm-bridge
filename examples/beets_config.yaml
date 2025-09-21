@@ -1,0 +1,19 @@
+# Example beets configuration for use with beets-lastfm-bridge
+# Place this file at ~/.config/beets/config.yaml
+
+directory: /path/to/your/music/library
+library: ~/.config/beets/musiclibrary.db
+
+import:
+    move: no           # Don't move files
+    copy: no           # Don't copy files  
+    write: no          # Don't write changes during import
+    resume: yes
+    incremental: yes   # Skip already imported albums
+    quiet_fallback: skip
+    timid: yes         # Skip prompts automatically
+    none_rec_action: skip    # Skip bad matches
+    strong_rec_thresh: 0.10  # Very low threshold - skip most
+    medium_rec_thresh: 0.05  # Very low threshold
+
+threaded: yes          # Parallel processing for faster imports
