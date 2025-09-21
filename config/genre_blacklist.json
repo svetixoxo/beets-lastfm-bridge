@@ -1,0 +1,10 @@
+{
+  "contains": [
+    "favorites",
+    "amazing"
+  ],
+  "exact": [
+    "rock",
+    "metal"
+  ]
+}
