@@ -214,7 +214,7 @@ This tool was created out of necessity when the built-in beets lastgenre plugin 
 
 ### About the Documentation
 
-I haven't actually read through most of the documentation files in this repository at all. Claude generated them based on our development conversation, and I trust that they're probably accurate and helpful, but I can't personally verify for their contents or completeness. Use them as a starting point, but don't be surprised if something doesn't quite match reality.
+I haven't actually read through most of the [documentation files in this repository](https://github.com/svetixoxo/beets-lastfm-bridge/tree/main/docs) at all. Claude generated them based on our development conversation, and I trust that they're probably accurate and helpful, but I can't personally verify for their contents or completeness. Use them as a starting point, but don't be surprised if something doesn't quite match reality.
 
 ### What This Means for Users
 
