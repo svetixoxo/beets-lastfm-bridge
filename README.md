@@ -1,6 +1,6 @@
 # beets-lastfm-bridge
 
-**Coded/implemented and translated with significant support/assistance from Claude AI assistant by Anthropic.**
+> **Important:** This project was created by someone with ~minimal~ almost no programming experience as a personal solution to a specific problem. The entire codebase was developed with significant assistance from Claude AI assistant by Anthropic. While **it works on my system**, I cannot guarantee it will work on yours or provide ~extensive~ any support for issues you might encounter.
 
 A comprehensive genre tagging solution for beets music library management. This tool bridges the gap between beets and Last.fm to provide intelligent, hierarchical genre tagging when the built-in lastgenre plugin fails.
 
@@ -51,14 +51,11 @@ A comprehensive genre tagging solution for beets music library management. This 
 
 ### Install beets
 ```bash
+# Arch Linux
+sudo pacman -S beets
+
 # Ubuntu/Debian
 sudo apt install beets
-
-# macOS
-brew install beets
-
-# Python pip
-pip install beets
 ```
 
 ### Setup beets-lastfm-bridge
@@ -209,9 +206,42 @@ python scripts/genre_batch.py
 - Ensure scripts have read/write access to music files
 - Check beets database permissions
 
+## Support and Limitations
+
+### About This Project
+
+This tool was created out of necessity when the built-in beets lastgenre plugin stopped working reliably. As someone ~with very limited~ without programming knowledge, I relied heavily on Claude AI to develop and troubleshoot this solution.
+
+### About the Documentation
+
+I haven't actually read through most of the documentation files in this repository at all. Claude generated them based on our development conversation, and I trust that they're probably accurate and helpful, but I can't personally verify for their contents or completeness. Use them as a starting point, but don't be surprised if something doesn't quite match reality.
+
+### What This Means for Users
+
+- **"It Works on My System"**: This code has been tested on my specific setup (Arch Linux, Python 3.x, specific beets configuration). Your mileage may vary.
+- **Limited Support**: I cannot provide extensive technical support or debugging assistance beyond what's documented here.
+- **Community Contribution**: If you're an experienced developer and find issues or improvements, contributions are welcome, but I may not be able to review complex technical changes.
+- **Use at Your Own Risk**: Please backup your music library before using these scripts.
+
+### If You Encounter Issues
+
+1. Check the troubleshooting section above
+2. Verify your system meets the prerequisites
+3. Try the examples and documentation files
+4. Consider seeking help from more experienced Python/beets users
+5. Remember that this is a personal tool that may not work for all setups
+
+### Why Share This?
+
+Despite my limited programming skills, this solution solved a real problem that others might face. Sometimes "good enough" code that works is better than no solution at all. If it helps even one person manage their music library better, it was worth sharing.
+
 ## Contributing
 
-~Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.~ I have no idea, what I'm doing.
+While contributions are welcome, please understand that:
+- I may not be able to review complex technical changes
+- I'm learning as I go and can't provide expert guidance
+- Simple fixes and documentation improvements are most helpful
+- Consider this more of a "working example" than a polished product
 
 ## License
 
@@ -222,3 +252,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 - Built as a workaround for beets lastgenre plugin issues
 - Uses Last.fm API for genre data
 - Inspired by the need for better music collection organization
+- **Special thanks to Claude AI by Anthropic for making this project possible despite my ~limited~ non-existing programming experience**
