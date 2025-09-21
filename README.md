@@ -233,15 +233,19 @@ I haven't actually read through most of the [documentation files in this reposit
 
 ### Why Share This?
 
-Despite my limited programming skills, this solution solved a real problem that others might face. Sometimes "good enough" code that works is better than no solution at all. If it helps even one person manage their music library better, it was worth sharing.
+Despite my ~limited~ non-existent programming skills, this solution solved a real problem that others might face. Sometimes "good enough" code that works is better than no solution at all.
+
+Realistically, I doubt anyone besides me will actually use this. I think even I won't use it any longer once i get beets working properly again. But: It's a pretty niche tool for a pretty specific problem, and given all the disclaimers above, most people would probably be better off finding ~a more professionally~ an at least maintained solution. But hey, it's here if you want it.
+
+If it somehow helps even one person manage their music library better, it was worth sharing.
 
 ## Contributing
 
 While contributions are welcome, please understand that:
-- I may not be able to review complex technical changes
-- I'm learning as I go and can't provide expert guidance
+- I may not be able to review ~complex technical~ changes
+- I'm learning as I go and can't provide ~expert~ guidance
 - Simple fixes and documentation improvements are most helpful
-- Consider this more of a "working example" than a polished product
+- Consider this more of a "working example" than a polished project
 
 ## License
 
