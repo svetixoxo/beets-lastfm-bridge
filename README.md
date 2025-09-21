@@ -64,7 +64,7 @@ pip install beets
 ### Setup beets-lastfm-bridge
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/beets-lastfm-bridge.git
+   git clone https://github.com/svetixoxo/beets-lastfm-bridge.git
    cd beets-lastfm-bridge
    ```
 
@@ -211,7 +211,7 @@ python scripts/genre_batch.py
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
+~Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.~ I have no idea, what I'm doing.
 
 ## License
 
