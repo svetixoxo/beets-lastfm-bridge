@@ -134,7 +134,7 @@ python scripts/genre_finder.py
 
 ### Getting Help
 
-1. Check the TROUBLESHOOTING.md file
+1. Check the [TROUBLESHOOTING.md](https://github.com/svetixoxo/beets-lastfm-bridge/blob/main/docs/TROUBLESHOOTING.md) file
 2. Review your beets configuration
 3. Ensure all dependencies are installed
 4. Verify API key is correct and active
