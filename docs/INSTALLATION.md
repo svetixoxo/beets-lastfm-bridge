@@ -10,15 +10,15 @@
 
 ### Install beets
 
+#### Arch Linux
+```bash
+sudo pacman -S beets flac
+```
+
 #### Ubuntu/Debian
 ```bash
 sudo apt update
 sudo apt install beets flac
-```
-
-#### Arch Linux
-```bash
-sudo pacman -S beets flac
 ```
 
 ## Install beets-lastfm-bridge
